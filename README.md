@@ -33,6 +33,7 @@ A comprehensive security assessment tool for finding vulnerabilities in Microsof
    ```bash
    git clone https://github.com/NULL200OK/IIS-Bug-Bounty-Hunter-v2.git
    cd IIS-Bug-Bounty-Hunter-v2
+   pip install -r requirements.txt
 
  2. **Make the script executable (optional)**
    ```bash
